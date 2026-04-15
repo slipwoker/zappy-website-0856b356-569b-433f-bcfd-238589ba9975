@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+nxty.ai is the next-generation AI company built for bold innovators. Explore cutting-edge artificial intelligence solutions that push boundaries and shape tomorrow.
+
+### Platform
+https://example.com/platform
+Discover the nxty.ai platform — a powerhouse AI engine rivaling top c3 ai company tech. Deploy smarter, faster, and more adaptive AI tools built for real-world impact.
+
+### About
+https://example.com/about
+Meet the visionary team behind nxty.ai, a bold AI company rewriting the rules of intelligence. Our mission, values, and story are rooted in relentless innovation and purpose.
+
+### Contact
+https://example.com/contact
+Ready to build with a forward-thinking elon ai company alternative? Reach out to nxty.ai today and let&#39;s create intelligent solutions that transform your business from day one.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
